@@ -1,1 +1,1 @@
-# studysyncproject
+# studysync project
